@@ -5,7 +5,7 @@ tags:
 - hexo
 - nodejs
 - markdown
-categories : 
+categories : c
 
 ---
 我是文章摘要，下面详细介绍hexo搭建博客的过程
